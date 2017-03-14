@@ -1,0 +1,12 @@
+Io per fare tutto ho utilizzato Datatable, plugin di jquery
+ho evitato di fare le consegne che avevamo gia fatto assieme e mi sono concentrato solo sul punto della somma, che penso di aver risolto
+ora bisogna incastrarci tutto il resto fatto precedentemente, per il sorting delle date io rimarrei su datatable sotto metto i link a possibili
+risorse utilizzabili per farlo
+
+
+https://datatables.net/examples/advanced_init/footer_callback.html  (sommatoria dei risultati parziali e totali mostrati a video)
+
+http://stackoverflow.com/questions/38717543/how-do-i-filter-date-range-in-datatables   (pagina di stackoverflow dove c'è il link al sorting datatable)
+
+
+http://plnkr.co/edit/mdeEYoZtnvpfHCdtSxDP?p=preview (link di cui sopra tirato fuori da stackoverflow, io vorrei incastrare il suo data range nella nostra pagina dato che sfrutta datatable)
